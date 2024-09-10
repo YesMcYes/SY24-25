@@ -6,5 +6,6 @@ public class foodTester
    {
     FoodItem Whatever = new FoodItem("Whatever", 9 ,4 ,3);
     System.out.println(Whatever);
+    // blub
     }
 }
